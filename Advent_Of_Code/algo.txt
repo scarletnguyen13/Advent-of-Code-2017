@@ -1,0 +1,10 @@
+Algorithm:
+1. Find the largest blocks + the bank # associated
+with the number of blocks
+2. Set that bank value to 0, while store the 
+# of blocks in a variable
+3. Re-index the banks' order(set x bank to the last
+element and x+1 the first element) for block
+distribution
+4. Redistribute the blocks
+5.  
